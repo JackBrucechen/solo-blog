@@ -11,7 +11,6 @@ Jackchen 的个人博客
 ### 最新
 
 * [我在 GitHub 上的开源项目](http://jackchen.xyz/my-github-repos)
-* [第一次接触c](http://jackchen.xyz/articles/2019/08/16/1565946363355.html)
 * [世界，你好！](http://jackchen.xyz/hello-solo)
 
 
