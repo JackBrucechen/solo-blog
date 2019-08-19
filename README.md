@@ -10,6 +10,7 @@ Jackchen 的个人博客
 
 ### 最新
 
+* [java 开发规范](http://jackchen.xyz/articles/2019/08/19/1566184724009.html)
 * [我在 GitHub 上的开源项目](http://jackchen.xyz/my-github-repos)
 * [世界，你好！](http://jackchen.xyz/hello-solo)
 
