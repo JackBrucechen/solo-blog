@@ -10,6 +10,9 @@ Jackchen 的个人博客
 
 ### 最新
 
+* [关于java垃圾回收，你真的懂吗？](https://jackchen.xyz/articles/2019/09/26/1569466195174.html)
+* [如何在java中写出优美的代码](https://jackchen.xyz/articles/2019/09/26/1569459846847.html)
+* [java基础之源码分析----------Object](https://jackchen.xyz/articles/2019/09/26/1569458511812.html)
 * [刚刚迈入码农行业的这一年](https://jackchen.xyz/articles/2019/09/16/1568622256227.html)
 * [java 开发规范](https://jackchen.xyz/articles/2019/08/19/1566184724009.html)
 * [我在 GitHub 上的开源项目](https://jackchen.xyz/my-github-repos)
