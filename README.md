@@ -10,6 +10,7 @@ Jackchen 的个人博客
 
 ### 最新
 
+* [阅读JVM 之 （一）java类加载机制](https://jackchen.xyz/articles/2019/11/06/1573030381518.html)
 * [关于java垃圾回收，你真的懂吗？](https://jackchen.xyz/articles/2019/09/26/1569466195174.html)
 * [如何在java中写出优美的代码](https://jackchen.xyz/articles/2019/09/26/1569459846847.html)
 * [java基础之源码分析----------Object](https://jackchen.xyz/articles/2019/09/26/1569458511812.html)
